@@ -1,0 +1,7 @@
+#Sun Jan 14 13:22:54 IST 2018
+base.0=/Users/dharmendraverma/Downloads/vuforia-sdk-android-7-0-43/VuforiaSamples-7-0-43/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_46615d097fb57a06e4824b162eb6b2b68e48e793
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/dharmendraverma/Downloads/vuforia-sdk-android-7-0-43/VuforiaSamples-7-0-43/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_36b28de53bdf86c50de0658177005edd4eda5e2e/classes.dex
+base.1=/Users/dharmendraverma/Downloads/vuforia-sdk-android-7-0-43/VuforiaSamples-7-0-43/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_36b28de53bdf86c50de0658177005edd4eda5e2e
+file.0=/Users/dharmendraverma/Downloads/vuforia-sdk-android-7-0-43/VuforiaSamples-7-0-43/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_46615d097fb57a06e4824b162eb6b2b68e48e793/classes.dex

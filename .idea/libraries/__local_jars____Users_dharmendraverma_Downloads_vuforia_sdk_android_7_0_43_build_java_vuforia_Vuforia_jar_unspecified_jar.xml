@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="__local_jars__:/Users/dharmendraverma/Downloads/vuforia-sdk-android-7-0-43/build/java/vuforia/Vuforia.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../build/java/vuforia/Vuforia.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
